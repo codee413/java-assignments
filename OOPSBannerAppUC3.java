@@ -1,11 +1,4 @@
-/**
- * OOPSBannerAppUC3
- * Prints "OOPS" banner using String.join() to improve efficiency
- * Avoids multiple + concatenations.
- * 
- * @author YourName
- * @version 1.0
- */
+
 public class OOPSBannerAppUC3 {
 
     public static void main(String[] args) {
